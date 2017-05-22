@@ -1,2 +1,2 @@
-Delete All Springboards.vi
+Manage Springboards.vi
 -
